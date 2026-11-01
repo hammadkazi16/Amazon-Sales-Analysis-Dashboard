@@ -26,11 +26,13 @@ This project focuses on presenting sales data through an interactive dashboard, 
 - Data Visualization
 - Business Intelligence
 - Sales Data Analysis
+- Microsoft Excel
 
 ## Files Included
 
 - `Amazon Sales Dashboard.pbix` — Power BI report file.
 - `Screenshot 2026-10-20 124619.png` — Dashboard preview image.
+- `Amazon_Combined_Data.xlsx` — Combined source dataset.
 
 ## How to View the Dashboard
 
